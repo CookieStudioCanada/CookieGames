@@ -1,5 +1,6 @@
 function openTab(evt, menuName) {
-    // Declare all variables
+    
+  // Declare all variables
     var i, tabcontent, tablinks;
   
     // Get all elements with class="tabcontent" and hide them

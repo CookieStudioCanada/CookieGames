@@ -5,7 +5,7 @@ body {
 }
 
 header { 
-    width: 500px;
+    width: 375px;
     border: 2px;
     border-style: dashed;
     background-color: bisque;
@@ -18,7 +18,7 @@ header {
 /* Style the tab */
 .tab {
     background-color: bisque;
-    width: 500px;
+    width: 375px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font:black;
   }
@@ -31,6 +31,7 @@ header {
     cursor: pointer;
     padding: 14px 16px;
     transition: 0.3s;
+    width: 125px;
   }
   
   /* Change background color of buttons on hover */
@@ -45,7 +46,7 @@ header {
   
   /* Style the tab content */
   .tabcontent {
-    width: 500px;
+    width: 375px;
     display: none;
     padding: 6px 12px;
     border: 1px solid black;
